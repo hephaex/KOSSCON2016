@@ -7,9 +7,10 @@ KOSS Lab. CON 2016
 - Hello World ([notebook](https://github.com/hephaex/KOSSCON2016/blob/master/src/01_hello_world.ipynb))
 
 #### 2 - Basic operation
-- Matrix multiplication ([notebook]())
+- Matrix multiplication ([notebook](https://github.com/hephaex/KOSSCON2016/blob/master/src/02_matmul.ipynb))
+
+#### 3 - word2vector
 - Linear Regression ([notebook]())
-- Logistic Regression ([notebook]())
 
 #### 3 - MNIST
 - MNIST ([notebook]())
