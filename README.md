@@ -13,10 +13,10 @@ KOSS Lab. CON 2016
 - Linear Regression ([notebook](https://github.com/hephaex/KOSSCON2016/blob/master/src/03_word2vector.ipynb))
 
 #### 4 - data representation
-- data representation ([notebook](https://github.com/hephaex/KOSSCON2016/blob/master/src/04_data_representation.ipynb)
+- data representation ([notebook](https://github.com/hephaex/KOSSCON2016/blob/master/src/04_data_representation.ipynb))
 
 #### 5 - Linear regression
-- Linear regression ([notebook](
+- Linear regression ([notebook](https://github.com/hephaex/KOSSCON2016/blob/master/src/05_linear_regression.ipynb))
 
 #### 6 - MNIST
 - MNIST ([notebook]())
