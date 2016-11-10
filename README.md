@@ -1,5 +1,11 @@
 # KOSSCON2016
 KOSS Lab. CON 2016 
+![KOSS CON](kosscon2016.png)
+
+[Site link](https://kosscon.kr)
+
+https://kosscon.kr/program/tutorial#11
+
 
 ## Tutorial index
 
