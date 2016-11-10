@@ -10,7 +10,13 @@ KOSS Lab. CON 2016
 - Matrix multiplication ([notebook](https://github.com/hephaex/KOSSCON2016/blob/master/src/02_matmul.ipynb))
 
 #### 3 - word2vector
-- Linear Regression ([notebook]())
+- Linear Regression ([notebook](https://github.com/hephaex/KOSSCON2016/blob/master/src/03_word2vector.ipynb))
 
-#### 3 - MNIST
+#### 4 - data representation
+- data representation ([notebook](
+
+#### 5 - Linear regression
+- Linear regression ([notebook](
+
+#### 6 - MNIST
 - MNIST ([notebook]())
