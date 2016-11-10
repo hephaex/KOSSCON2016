@@ -19,4 +19,4 @@ KOSS Lab. CON 2016
 - Linear regression ([notebook](https://github.com/hephaex/KOSSCON2016/blob/master/src/05_linear_regression.ipynb))
 
 #### 6 - MNIST
-- MNIST ([notebook]())
+- MNIST ([notebook](https://github.com/hephaex/KOSSCON2016/blob/master/src/06_MNIST.ipynb))
