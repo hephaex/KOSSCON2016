@@ -3,8 +3,8 @@ KOSS Lab. CON 2016
 ![KOSS CON](kosscon2016.png)
 
 * 튜토리얼 섹션
-![제로부터 시작하는 텐서플로우](program.png)
-[제로부터 시작하는 텐서플로우](https://kosscon.kr/program/tutorial#11)
+![Re: 제로부터 시작하는 텐서플로우](program.png)
+[Re: 제로부터 시작하는 텐서플로우](https://kosscon.kr/program/tutorial#11)
 
 ## Tutorial index
 
